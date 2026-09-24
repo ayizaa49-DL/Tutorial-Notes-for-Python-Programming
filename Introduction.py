@@ -14,12 +14,9 @@ print(first_name + " " + last_name)
 address = "123 Main St"
 print(address)
 address += " Apt 4B"
-employee_name = "Ayiza"
 employee_age = 28
-employee_info = "Employee age is: " + str(employee_age) + " year old"
+employee_info = "Employee age is: " + str(employee_age) + "year old "
 print(employee_info)
 experience_years = 5
-experience_info = f"Employee has {experience_years} years of experience"
-print(experience_info)
-employee_card = f"Employee: {employee_name} | Age: {employee_age}"
-print(employee_card)
+experience_info = f"Employee has {experience_years} years of experience
+print(experience_info
